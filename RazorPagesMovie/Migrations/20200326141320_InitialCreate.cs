@@ -15,7 +15,7 @@ namespace RazorPagesMovie.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Title = table.Column<string>(nullable: true),
                     ReleasedDate = table.Column<DateTime>(nullable: false),
-                    Genge = table.Column<string>(nullable: true),
+                    Genre = table.Column<string>(nullable: true),
                     Price = table.Column<decimal>(nullable: false)
                 },
                 constraints: table =>
