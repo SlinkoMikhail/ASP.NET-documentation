@@ -162,3 +162,6 @@ D:\Programs\MyProjects\C#\ASP.NET\Official Tutorial\MvcMovie\obj\Debug\netcoreap
 D:\Programs\MyProjects\C#\ASP.NET\Official Tutorial\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
 D:\Programs\MyProjects\C#\ASP.NET\Official Tutorial\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
 D:\Programs\MyProjects\C#\ASP.NET\Official Tutorial\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+D:\Programs\MyProjects\C#\ASP.NET\Official Tutorial\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CoreCompileInputs.cache
+D:\Programs\MyProjects\C#\ASP.NET\Official Tutorial\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.genruntimeconfig.cache
+D:\Programs\MyProjects\C#\ASP.NET\Official Tutorial\MvcMovie\bin\Debug\netcoreapp3.1\Connected Services\Application Insights\ConnectedService.json
